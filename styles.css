@@ -89,53 +89,47 @@ p {
 
 @media screen and (max-width:800px) {
 
-   section{
-    width: 100%;
-    height: 50%;
-    margin: 0;
-    padding: 0;
-    
+    section {
+        width: 100%;
+        height: 50%;
+        margin: 0;
+        padding: 0;
     }
 
-   p {
-    display: none;
-   }
+    p {
+        display: none;
+    }
 
-   header {
-    display: none;
-   }
+    header {
+        display: none;
+    }
 
-   .logo-image {
-    width: 354px;
-    height: 50%;
-    display: inline-block;
-    margin: 75px 0 0px 40px;
-    
-   }
+    .logo-image {
+        width: 354px;
+        height: 50%;
+        display: inline-block;
+        margin: 75px 0 0px 40px;
+    }
 
-   h1 {
-    font-size: 50px;
-    line-height:60.95px;
-    height: 52px;
-    width: auto;
-    margin: 15px 50px 0 50px;
-    text-align: center;
-    
-   
-     }
+    h1 {
+        font-size: 50px;
+        line-height: 60.95px;
+        height: 52px;
+        width: auto;
+        margin: 15px 50px 0 50px;
+        text-align: center;
+    }
 
-     h2 {
+    h2 {
         font-size: 30px;
         width: auto;
         line-height: 36.57px;
         height: 37px;
         margin: 5px 50px 0 50px;
-       text-align: center;
-       
-     }
+        text-align: center;
+    }
 
-
-     .button-main {
+    .button-main {
         width: 239px;
         height: 64px;
         border-radius: 20.5px;
@@ -143,13 +137,5 @@ p {
         line-height: 34.13px;
         display: block;
         margin: 10px auto 0 auto;
-     }
-
-
-
-
-
-
-
-
+    }
 }
