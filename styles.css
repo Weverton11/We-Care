@@ -34,6 +34,13 @@ header {
     color: #ffffff;
     cursor: pointer;
 }
+.button-header:hover {
+    opacity: 0.8;
+}
+
+.button-header:active {
+    opacity: 0.7;
+}
 
 .logo-image {
     width: 568px;
@@ -84,6 +91,13 @@ p {
     font-size: 28px;
     line-height: 34px;
     color: #000000;
+}
+
+.button-main:hover {
+    opacity: 0.8;
+}
+.button-main:active {
+    opacity: 0.7;
 }
 
 
